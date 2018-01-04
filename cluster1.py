@@ -1,0 +1,3 @@
+import kMeans 
+
+kMeans.homework()
